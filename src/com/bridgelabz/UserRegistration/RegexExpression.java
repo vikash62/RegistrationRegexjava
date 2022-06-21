@@ -18,5 +18,4 @@ public class RegexExpression
         else {
             System.out.println("Not a valid name");
         }
-    }
-}
+    }   
